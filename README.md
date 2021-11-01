@@ -1,5 +1,5 @@
 <b>Operation video:</b> <a href="https://www.youtube.com/watch?v=LpSs2OX8iF0">https://www.youtube.com/watch?v=LpSs2OX8iF0</a>
-<b>Operation doc:</b><a href="https://weijutu.github.io/2018/08/02/tools/slate-api-document/">https://weijutu.github.io/2018/08/02/tools/slate-api-document/</a>
+<p><b>Operation doc:</b><a href="https://weijutu.github.io/2018/08/02/tools/slate-api-document/">https://weijutu.github.io/2018/08/02/tools/slate-api-document/</a></p>
 <p></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/slatedocs/img/main/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
